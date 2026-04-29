@@ -1,0 +1,2 @@
+Model,IMG_SIZE,Batch Size,Epoch,Test Accuracy,Macro F1,Precision,Recall
+MobileNetV3Small,160,24,15,0.8503,0.8503,0.8543,0.8504
